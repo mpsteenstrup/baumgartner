@@ -1,3 +1,19 @@
+### Indholdsfortegnelse
+
+* [Introduktion](https://mpsteenstrup.github.io/baumgartner/introduktion)
+* [Frit fald](https://mpsteenstrup.github.io/baumgartner/fritfald)
+* [Luftmodstand](https://mpsteenstrup.github.io/baumgartner/luftmodstand)
+* [Atomsfærens densitet](https://mpsteenstrup.github.io/baumgartner/atmosfaere)
+* [Den fulde model](https://mpsteenstrup.github.io/baumgartner/fulde-model)
+
+basal programmering
+
+* [Grundelementer i programmering](https://mpsteenstrup.github.io/baumgartner/former)
+* [Former](https://mpsteenstrup.github.io/baumgartner/basal-programmering)
+* [Bevægelse](https://mpsteenstrup.github.io/baumgartner/bevaegelse)
+
+# Frit fald
+
 Ved brug af Newtons anden lov vil vi gennem denne øvelse opbygge en model for det spring som Felix Baumgartner foretog i Oktober 2012 fra en højde af 39 km og brød lydmuren. 
 
 Newtons anden lov siger at $$F=m\cdot a$$, hvor F er kraften i newton, N, m er massen i kg og a er accelerationen.

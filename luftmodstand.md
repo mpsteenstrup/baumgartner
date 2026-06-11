@@ -1,3 +1,19 @@
+### Indholdsfortegnelse
+
+* [Introduktion](https://mpsteenstrup.github.io/baumgartner/introduktion)
+* [Frit fald](https://mpsteenstrup.github.io/baumgartner/fritfald)
+* [Luftmodstand](https://mpsteenstrup.github.io/baumgartner/luftmodstand)
+* [Atomsfærens densitet](https://mpsteenstrup.github.io/baumgartner/atmosfaere)
+* [Den fulde model](https://mpsteenstrup.github.io/baumgartner/fulde-model)
+
+basal programmering
+
+* [Grundelementer i programmering](https://mpsteenstrup.github.io/baumgartner/former)
+* [Former](https://mpsteenstrup.github.io/baumgartner/basal-programmering)
+* [Bevægelse](https://mpsteenstrup.github.io/baumgartner/bevaegelse)
+
+# Luftmodstand
+
 Vi skal se på luftmodstanden som den vigtigste modifikation til frit fald. Luftmodstanden kan skrives som 
 $$F_{luft} = 0.5\cdot c_w \cdot \rho_{luft}\cdot A \cdot v^2$$
 Den afhænger altså af hastigheden i anden, arealet i bevægelsesretningen, luftens densitet som er ca $$\rho_{luft} = 1,225kg/m^3$$ ved jordoverfladen.
