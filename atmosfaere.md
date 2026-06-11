@@ -18,9 +18,8 @@ Det kan vises at atmosfærens densitet aftager eksponentielt. Det er ikke en ber
 $$\rho = \rho_0\cdot e^{-0.0001166\cdot h}$$, hvor h er højden. $$\rho_0 = 1,2250kg/m^3$$ ved havoverfladen. 
 
 ok her er formlen rigtigt
-![Skærmbillede 2017-03-22 kl. 13.37.39.png](/api/files/58d270a53d8dd61f2601268a/skaermbillede-2-017-0-3-22-kl-1-3-3-7-39.png "Skærmbillede 2017-03-22 kl. 13.37.39.png")
 
-![luftens densitet](billeder/aftagenede_atomsfaere.png)
+![luftens densitet](billeder/aftagenede_atomsfaere.png)[width=50%]
 
 Vi vil nu gerne lave en (h,rho) graf
 
