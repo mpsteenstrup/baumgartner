@@ -19,8 +19,8 @@ $$\rho = \rho_0\cdot e^{-0.0001166\cdot h}$$, hvor h er højden. $$\rho_0 = 1,22
 
 ok her er formlen rigtigt
 
-![luftens densitet](billeder/aftagenede_atomsfaere.png)
-<img src="billeder/aftagenede_atomsfaere.png" alt="Alt Text" width="300" height="200">
+<img src="billeder/aftagenede_atomsfaere.png" alt="Alt Text" width=60%>
+
 Vi vil nu gerne lave en (h,rho) graf
 
 [https://glowscript.org/#/user/mps/folder/baumgartner/program/atmosfaere](https://glowscript.org/#/user/mps/folder/baumgartner/program/atmosfaere)
