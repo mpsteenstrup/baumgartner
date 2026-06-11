@@ -1,0 +1,20 @@
+** Former **
+
+Pythons Glowscript modul er lavet til 3D simulering. Det er relativt let at sætte forskellige former ind.
+
+nedenunder er vist forskellige former.
+
+[https://glowscript.org/#/user/mps/folder/baumgartner/program/former](https://glowscript.org/#/user/mps/folder/baumgartner/program/former)
+
+* man kan fjerne linjer med #, det hedder at udkommentere.
+
+Som I kan se så bliver positionen defineret ved en vektor. For at få styr på akserne så prøv at udkommenter, #, de andre figure.
+
+* dan 3 vektorer, arrow(axis=vec(1,0,0)), arrow(axis=vec(0,1,0), color=color.red) og arrow(axis=vec(0,0,1), color=color.blue) , i tre linjer.
+* vektoren er defineret som vec(x,y,z). Hvordan er orienteringen i programmet?
+
+I kan finde flere figure her [http://www.glowscript.org/docs/VPythonDocs/primitives.html](glowscript.org)
+
+
+
+
