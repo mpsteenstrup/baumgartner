@@ -19,7 +19,7 @@ $$\rho = \rho_0\cdot e^{-0.0001166\cdot h}$$, hvor h er højden. $$\rho_0 = 1,22
 
 ok her er formlen rigtigt
 
-<img src="billeder/aftagenede_atomsfaere.png" alt="Alt Text" width=60%>
+<img src="billeder/aftagenede_atomsfaere.png" alt="densitet" width=60% height="auto">
 
 Vi vil nu gerne lave en (h,rho) graf
 
