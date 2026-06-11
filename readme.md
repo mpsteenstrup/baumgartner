@@ -2,7 +2,7 @@
 
 Undervisningsmateriale til 2.g hvor simulering kombineres med newtons mekanik.
 
-Materialet kan tilgås som webside her: [Indledning](xx)
+Materialet kan tilgås som webside her: [Indledning](https://mpsteenstrup.github.io/baumgartner/introduktion/)
 
 Simuleringerne er foretaget i vPython og ligger på websiden [https://glowscript.org/#/user/mps/folder/baumgartner/](https://glowscript.org/#/user/mps/folder/baumgartner/)
 
